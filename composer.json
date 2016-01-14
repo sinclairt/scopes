@@ -1,0 +1,26 @@
+{
+  "name": "sterling/scopes",
+  "description": "Common scopes",
+  "type": "library",
+  "require": {
+    "php": ">=5.4.0",
+    "illuminate/support": "~5.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "Sterling\\Scopes": "src/"
+    }
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mat Marlow",
+      "email": "mmarlow@sterlingsolutions.co.uk"
+    },
+    {
+      "name": "Tom Sinclair",
+      "email": "tsinclair@sterlingsolutions.co.uk"
+    }
+  ],
+  "minimum-stability": "dev"
+}
