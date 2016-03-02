@@ -1,6 +1,6 @@
 <?php
 
-namespace Sterling\Scopes;
+namespace Sinclair\Scopes;
 
 trait DateScopes
 {

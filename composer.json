@@ -1,5 +1,5 @@
 {
-  "name": "sterling/scopes",
+  "name": "sinclair/scopes",
   "description": "Common scopes",
   "type": "library",
   "require": {
@@ -8,18 +8,14 @@
   },
   "autoload": {
     "psr-0": {
-      "Sterling\\Scopes": "src/"
+      "Sinclair\\Scopes": "src/"
     }
   },
   "license": "MIT",
   "authors": [
     {
-      "name": "Mat Marlow",
-      "email": "mmarlow@sterlingsolutions.co.uk"
-    },
-    {
       "name": "Tom Sinclair",
-      "email": "tsinclair@sterlingsolutions.co.uk"
+      "email": "tom.sinclair31@gmail.com"
     }
   ],
   "minimum-stability": "dev"

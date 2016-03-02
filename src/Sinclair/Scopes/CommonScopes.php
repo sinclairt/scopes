@@ -1,4 +1,4 @@
-<?php namespace Sterling\Scopes;
+<?php namespace Sinclair\Scopes;
 
 trait CommonScopes{
 
